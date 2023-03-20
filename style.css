@@ -196,3 +196,6 @@ h2 {
 img {
   border-radius: 50%;
 }
+a[href^="mailto:"] {
+    color: #FFFFFF;
+}
